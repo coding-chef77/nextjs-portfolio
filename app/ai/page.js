@@ -1,4 +1,3 @@
-import Footer from "../components/footer";
 import Navbar from "../components/navbar";
 
 export default function Page() {
@@ -6,7 +5,6 @@ export default function Page() {
     <>
         <Navbar />
       <h1>Hello, AI!</h1>
-      <Footer />
       </>
     )
   }
